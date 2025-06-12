@@ -42,6 +42,8 @@ To run the application locally:
 
 ## Output Sample 
 ![Screenshot 2025-06-12 162225](https://github.com/user-attachments/assets/23944146-3589-4e56-aa38-ebe2479ca8b2)
+![image](https://github.com/user-attachments/assets/f81c80b6-4708-4962-b573-26b3d0878022)
+
 
 
 ## Usage Examples
