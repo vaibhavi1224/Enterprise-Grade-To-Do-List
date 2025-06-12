@@ -40,6 +40,10 @@ To run the application locally:
    ```
 4. Open your browser to the URL displayed in the terminal (typically http://localhost:8080)
 
+## Output Sample 
+![Screenshot 2025-06-12 162225](https://github.com/user-attachments/assets/23944146-3589-4e56-aa38-ebe2479ca8b2)
+
+
 ## Usage Examples
 
 Here are some examples of natural language commands you can use:
@@ -50,6 +54,4 @@ Here are some examples of natural language commands you can use:
 - "Review pull requests by noon P3"
 - "Organize team lunch next Thursday 1pm for Alex"
 
-## License
 
-MIT
