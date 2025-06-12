@@ -8,8 +8,7 @@ A sophisticated to-do list application that allows users to create tasks using n
 
 - **Natural Language Task Creation**: Type tasks like "Finish report for Aman by 8pm tomorrow P1" and the app will automatically parse the task name, assignee, due date/time, and priority
 - **Smart Parsing**: Uses chrono-node to extract date/time information from text
-- **Task Management**: Create, edit, complete, and delete tasks
-- **Sorting & Filtering**: Sort tasks by due date or priority
+- **Task Management**: Create, complete, and delete tasks
 - **Light/Dark Theme**: Support for both light and dark themes with system preference detection
 - **Responsive Design**: Works on desktop and mobile devices
 - **Local Storage**: Tasks persist between sessions in your browser
@@ -28,6 +27,9 @@ A sophisticated to-do list application that allows users to create tasks using n
 To run the application locally:
 
 1. Clone the repository
+   ```
+   git clone https://github.com/vaibhavi1224/Enterprise-Grade-To-Do-List.git
+   ```
 2. Install dependencies:
    ```
    npm install
